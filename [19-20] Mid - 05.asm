@@ -1,0 +1,3 @@
+MOV AX, 512Ch
+MOV BX, 4185h
+ADD AX, BX
