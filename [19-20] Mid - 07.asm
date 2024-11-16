@@ -1,3 +1,5 @@
+; Write a program for binary to decimal conversion
+
 ; input8 bit binary number and print out decimal to screen.
 ; zeros and ones -> decimal value
 

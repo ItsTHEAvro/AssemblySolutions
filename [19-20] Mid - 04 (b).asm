@@ -1,3 +1,5 @@
+; A = B - A using only MOV, ADD, SUB, INC, DEC and NEG
+
 DATA 	SEGMENT 
 A   DW  5h 
 DATA	ENDS

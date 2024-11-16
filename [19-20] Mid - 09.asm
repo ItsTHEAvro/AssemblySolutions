@@ -1,3 +1,5 @@
+; Write a program for decimal to binary conversion
+
 org 100h
 
 jmp start

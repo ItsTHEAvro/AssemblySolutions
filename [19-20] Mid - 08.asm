@@ -1,3 +1,5 @@
+; Write a program to find the factorial of a number
+
 ; this example gets the number from the user,
 ; and calculates factorial for it.
 ; supported input from 0 to 8 inclusive!
